@@ -2,7 +2,7 @@
 
 ## Authors
 
-mark a. foltz [@mfoltzgoogle](https://github.com/mfoltzgoogle)
+mark a. foltz [@markafoltz](https://github.com/markafoltz)
 
 [<mfoltz@google.com>](mailto:mfoltz@google.com)
 
@@ -12,9 +12,9 @@ Takumi Fujimoto [@takumif](https://github.com/takumif)
 
 ## Participate
 
-- [Latest Draft](https://mfoltzgoogle.github.io/tab-self-mirroring/explainer.html)
-- [GitHub Repository](https://github.com/mfoltzgoogle/tab-self-mirroring)
-- [File an Issue](https://github.com/mfoltzgoogle/tab-self-mirroring/issues)
+- [Latest Draft](https://markafoltz.github.io/tab-self-mirroring/explainer.html)
+- [GitHub Repository](https://github.com/markafoltz/tab-self-mirroring)
+- [File an Issue](https://github.com/markafoltz/tab-self-mirroring/issues)
 
 ## Introduction
 
